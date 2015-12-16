@@ -15,5 +15,17 @@
 - move unchanged varialbes out of loops in changePizzaSizes()
 - move unchanged varialbes out of loops in updatePositions()
 - update jquery to use getelementbyid or getelementsbyclassname
+- update .mover css properties
 
 ![part2result](https://github.com/PhdDone/frontend-nanodegree-mobile-portfolio/blob/master/part2result.png)
+
+####References:
+https://developer.mozilla.org/en-US/docs/Web/CSS/transform
+
+http://blog.teamtreehouse.com/increase-your-sites-performance-with-hardware-accelerated-css
+
+https://css-tricks.com/almanac/properties/b/backface-visibility/
+
+http://designmodo.com/backface-visibility-css-animation/
+
+
