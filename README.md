@@ -1,5 +1,8 @@
 ## Website Performance Optimization portfolio project
 
+####Part 0: How to run:
+- [click here](http://phddone.github.io/frontend-nanodegree-mobile-portfolio)
+
 ####Part 1: Optimize PageSpeed Insights score for index.html
 - asyn js
 - move font and js to the bottom
